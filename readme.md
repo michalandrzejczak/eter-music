@@ -1,3 +1,9 @@
+## eter-music
+
+live: http://eter-music.herokuapp.com/
+
+App made for the one of recruitment processes.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
