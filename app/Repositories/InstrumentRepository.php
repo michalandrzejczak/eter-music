@@ -16,6 +16,6 @@ class InstrumentRepository extends BaseRepository
     }
 
     public function getAll($columns = array('*')) {
-        return $this->model->with('user')->get($columns);
+        return $this->model->get($columns);
     }
 }
