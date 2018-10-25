@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'eter-music'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://fierce-sands-30977.herokuapp.com'),
+    'url' => env('APP_URL', 'https://eter-music.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
